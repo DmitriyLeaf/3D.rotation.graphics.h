@@ -1,7 +1,7 @@
 # 3Drotaition.graphics.h
 
-key:
-1 - Yrotation
-2 - Xrotation
-3 - Zrotation
+key: <br>
+1 - Yrotation <br>
+2 - Xrotation <br>
+3 - Zrotation <br>
 4 - rotaition with fill
